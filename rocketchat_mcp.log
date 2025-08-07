@@ -148,3 +148,61 @@
 2025-08-07 18:57:26,552 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
 2025-08-07 18:57:26,553 - RocketChatAPI - INFO - Request POST chat.postMessage successful
 2025-08-07 18:57:26,554 - RocketChatMCP - INFO - Message sent successfully to channel: general
+2025-08-07 19:19:18,335 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\mcp-rocketchat\rocketchat_mcp.log
+2025-08-07 19:19:18,447 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 19:19:18,460 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 19:19:18,461 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 19:19:18,463 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 19:19:18,463 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 19:19:18,463 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 19:19:18,464 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 19:19:18,464 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 19:19:20,259 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 19:19:20,260 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 19:19:20,260 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 19:19:20,260 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 19:19:20,262 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 19:19:20,270 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 19:19:20,272 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 19:19:20,274 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 19:19:21,459 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 19:19:21,460 - RocketChatMCP - INFO - list_users called
+2025-08-07 19:19:21,460 - RocketChatAPI - INFO - Making GET request to users.list
+2025-08-07 19:19:22,014 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 19:19:22,014 - RocketChatMCP - INFO - send_message_in_channel called - channel: general, text length: 86
+2025-08-07 19:19:22,015 - RocketChatAPI - INFO - Making POST request to chat.postMessage
+2025-08-07 19:19:22,852 - httpx - INFO - HTTP Request: GET http://localhost:3000/api/v1/users.list "HTTP/1.1 200 OK"
+2025-08-07 19:19:22,853 - RocketChatAPI - INFO - Request GET users.list successful
+2025-08-07 19:19:22,854 - RocketChatMCP - INFO - Retrieved 13 users
+2025-08-07 19:19:23,161 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
+2025-08-07 19:19:23,162 - RocketChatAPI - INFO - Request POST chat.postMessage successful
+2025-08-07 19:19:23,163 - RocketChatMCP - INFO - Message sent successfully to channel: general
+2025-08-07 19:20:23,424 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\mcp-rocketchat\rocketchat_mcp.log
+2025-08-07 19:20:23,435 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 19:20:23,445 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 19:20:23,445 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 19:20:23,447 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 19:20:23,447 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 19:20:23,447 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 19:20:23,447 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 19:20:23,447 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 19:20:24,480 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 19:20:24,481 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 19:20:24,482 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 19:20:24,482 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 19:20:24,483 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 19:20:24,491 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 19:20:24,494 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 19:20:24,495 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 19:20:25,648 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 19:20:25,649 - RocketChatMCP - INFO - list_users called
+2025-08-07 19:20:25,649 - RocketChatAPI - INFO - Making GET request to users.list
+2025-08-07 19:20:26,170 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 19:20:26,171 - RocketChatMCP - INFO - send_message_in_channel called - channel: general, text length: 73
+2025-08-07 19:20:26,171 - RocketChatAPI - INFO - Making POST request to chat.postMessage
+2025-08-07 19:20:26,743 - httpx - INFO - HTTP Request: GET http://localhost:3000/api/v1/users.list "HTTP/1.1 200 OK"
+2025-08-07 19:20:26,743 - RocketChatAPI - INFO - Request GET users.list successful
+2025-08-07 19:20:26,744 - RocketChatMCP - INFO - Retrieved 13 users
+2025-08-07 19:20:27,076 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
+2025-08-07 19:20:27,077 - RocketChatAPI - INFO - Request POST chat.postMessage successful
+2025-08-07 19:20:27,077 - RocketChatMCP - INFO - Message sent successfully to channel: general
