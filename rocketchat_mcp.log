@@ -1,0 +1,150 @@
+2025-08-07 17:16:20,141 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\rocketchat\rocketchat_mcp.log
+2025-08-07 17:16:20,293 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 17:16:20,306 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 17:16:20,307 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 17:16:20,309 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 17:16:20,309 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 17:16:20,311 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 17:16:20,311 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 17:16:20,311 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 17:16:23,354 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 17:16:23,355 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 17:16:23,356 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 17:16:23,356 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 17:16:23,359 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 17:16:23,374 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 17:16:23,381 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 17:16:23,386 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 17:16:24,317 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 17:16:24,318 - RocketChatMCP - INFO - send_message called - channel: general, text length: 7
+2025-08-07 17:16:24,318 - RocketChatAPI - INFO - Making POST request to chat.postMessage
+2025-08-07 17:16:25,828 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
+2025-08-07 17:16:25,829 - RocketChatAPI - INFO - Request POST chat.postMessage successful
+2025-08-07 17:16:25,830 - RocketChatMCP - INFO - Message sent successfully to channel: general
+2025-08-07 18:09:00,117 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\rocketchat\rocketchat_mcp.log
+2025-08-07 18:09:00,129 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 18:09:00,136 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 18:09:00,137 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 18:09:00,138 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 18:09:00,139 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 18:09:00,139 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 18:09:00,139 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 18:09:00,139 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 18:09:01,104 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 18:09:01,105 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 18:09:01,106 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 18:09:01,106 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 18:09:01,108 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 18:09:01,116 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 18:09:01,118 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 18:09:01,120 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 18:20:11,148 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\rocketchat\rocketchat_mcp.log
+2025-08-07 18:20:11,159 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 18:20:11,170 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 18:20:11,171 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 18:20:11,172 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 18:20:11,172 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 18:20:11,172 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 18:20:11,172 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 18:20:11,172 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 18:20:12,103 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 18:20:12,103 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 18:20:12,104 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 18:20:12,104 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 18:20:12,105 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 18:20:12,114 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 18:20:12,117 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 18:20:12,119 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 18:20:12,708 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:20:12,708 - RocketChatMCP - INFO - list_users called
+2025-08-07 18:20:12,709 - RocketChatAPI - INFO - Making GET request to users.list
+2025-08-07 18:20:13,514 - httpx - INFO - HTTP Request: GET http://localhost:3000/api/v1/users.list "HTTP/1.1 200 OK"
+2025-08-07 18:20:13,515 - RocketChatAPI - INFO - Request GET users.list successful
+2025-08-07 18:20:13,515 - RocketChatMCP - INFO - Retrieved 13 users
+2025-08-07 18:52:15,277 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\rocketchat\rocketchat_mcp.log
+2025-08-07 18:52:15,288 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 18:52:15,297 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 18:52:15,298 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 18:52:15,299 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 18:52:15,299 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 18:52:15,299 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 18:52:15,300 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 18:52:15,300 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 18:52:16,362 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 18:52:16,362 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 18:52:16,363 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 18:52:16,363 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 18:52:16,364 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 18:52:16,373 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 18:52:16,375 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 18:52:16,377 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 18:52:18,117 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:52:18,117 - RocketChatMCP - INFO - list_users called
+2025-08-07 18:52:18,118 - RocketChatAPI - INFO - Making GET request to users.list
+2025-08-07 18:52:18,645 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:52:18,646 - RocketChatMCP - INFO - send_message_in_channel called - channel: general, text length: 75
+2025-08-07 18:52:18,646 - RocketChatAPI - INFO - Making POST request to chat.postMessage
+2025-08-07 18:52:19,444 - httpx - INFO - HTTP Request: GET http://localhost:3000/api/v1/users.list "HTTP/1.1 200 OK"
+2025-08-07 18:52:19,445 - RocketChatAPI - INFO - Request GET users.list successful
+2025-08-07 18:52:19,446 - RocketChatMCP - INFO - Retrieved 13 users
+2025-08-07 18:52:19,532 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
+2025-08-07 18:52:19,533 - RocketChatAPI - INFO - Request POST chat.postMessage successful
+2025-08-07 18:52:19,534 - RocketChatMCP - INFO - Message sent successfully to channel: general
+2025-08-07 18:56:54,918 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\rocketchat\rocketchat_mcp.log
+2025-08-07 18:56:54,929 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 18:56:54,938 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 18:56:54,938 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 18:56:54,939 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 18:56:54,940 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 18:56:54,940 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 18:56:54,940 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 18:56:54,940 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 18:56:55,928 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 18:56:55,928 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 18:56:55,929 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 18:56:55,929 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 18:56:55,931 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 18:56:55,941 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 18:56:55,944 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 18:56:55,946 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 18:56:58,075 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:56:58,076 - RocketChatMCP - INFO - list_users called
+2025-08-07 18:56:58,076 - RocketChatAPI - INFO - Making GET request to users.list
+2025-08-07 18:56:58,963 - httpx - INFO - HTTP Request: GET http://localhost:3000/api/v1/users.list "HTTP/1.1 200 OK"
+2025-08-07 18:56:58,964 - RocketChatAPI - INFO - Request GET users.list successful
+2025-08-07 18:56:58,965 - RocketChatMCP - INFO - Retrieved 13 users
+2025-08-07 18:57:00,035 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:57:00,036 - RocketChatMCP - INFO - send_message_in_channel called - channel: general, text length: 58
+2025-08-07 18:57:00,037 - RocketChatAPI - INFO - Making POST request to chat.postMessage
+2025-08-07 18:57:01,007 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
+2025-08-07 18:57:01,008 - RocketChatAPI - INFO - Request POST chat.postMessage successful
+2025-08-07 18:57:01,009 - RocketChatMCP - INFO - Message sent successfully to channel: general
+2025-08-07 18:57:20,578 - RocketChatMCP - INFO - Logging initialized. Log file: C:\Users\spaceworking\Desktop\rocketchat\rocketchat_mcp.log
+2025-08-07 18:57:20,590 - RocketChatMCP - INFO - FastMCP server initialized with name 'rocketchat'
+2025-08-07 18:57:20,599 - RocketChatMCP - INFO - Starting RocketChat MCP Server
+2025-08-07 18:57:20,600 - RocketChatMCP - INFO - Arguments parsed - server: http://localhost:3000, username: admin_username
+2025-08-07 18:57:20,601 - RocketChatMCP - INFO - Starting client setup
+2025-08-07 18:57:20,601 - RocketChatMCP - INFO - Initializing RocketChat client for server: http://localhost:3000, user: admin_username
+2025-08-07 18:57:20,602 - RocketChatAPI - INFO - Initializing RocketChat API client for server: http://localhost:3000
+2025-08-07 18:57:20,602 - RocketChatAPI - INFO - Will login with username: admin_username
+2025-08-07 18:57:20,602 - RocketChatAPI - INFO - Attempting login for user: admin_username
+2025-08-07 18:57:21,555 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/login "HTTP/1.1 200 OK"
+2025-08-07 18:57:21,556 - RocketChatAPI - INFO - Login successful for user: admin_username, user_id: tYezhk2HW8YvPACSp
+2025-08-07 18:57:21,557 - RocketChatMCP - INFO - RocketChat client initialized successfully
+2025-08-07 18:57:21,557 - RocketChatMCP - INFO - Client setup completed successfully
+2025-08-07 18:57:21,558 - RocketChatMCP - INFO - Starting MCP server with stdio transport
+2025-08-07 18:57:21,566 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-07 18:57:21,569 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-07 18:57:21,570 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-07 18:57:23,673 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:57:23,673 - RocketChatMCP - INFO - list_users called
+2025-08-07 18:57:23,674 - RocketChatAPI - INFO - Making GET request to users.list
+2025-08-07 18:57:24,540 - httpx - INFO - HTTP Request: GET http://localhost:3000/api/v1/users.list "HTTP/1.1 200 OK"
+2025-08-07 18:57:24,541 - RocketChatAPI - INFO - Request GET users.list successful
+2025-08-07 18:57:24,541 - RocketChatMCP - INFO - Retrieved 13 users
+2025-08-07 18:57:25,660 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-07 18:57:25,660 - RocketChatMCP - INFO - send_message_in_channel called - channel: general, text length: 74
+2025-08-07 18:57:25,661 - RocketChatAPI - INFO - Making POST request to chat.postMessage
+2025-08-07 18:57:26,552 - httpx - INFO - HTTP Request: POST http://localhost:3000/api/v1/chat.postMessage "HTTP/1.1 200 OK"
+2025-08-07 18:57:26,553 - RocketChatAPI - INFO - Request POST chat.postMessage successful
+2025-08-07 18:57:26,554 - RocketChatMCP - INFO - Message sent successfully to channel: general
