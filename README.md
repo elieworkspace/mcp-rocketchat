@@ -27,7 +27,7 @@ Access Rocket.Chat at [http://localhost:3000](http://localhost:3000).
 
 ```bash
 uv venv
-.\venv\Scripts\activate
+.venv\Scripts\activate
 uv add mcp[cli] httpx
 ```
 
