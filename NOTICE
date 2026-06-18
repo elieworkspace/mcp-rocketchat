@@ -1,0 +1,14 @@
+rocketchat-mcp
+
+This project is a fork of https://github.com/elieworkspace/rocketchat-mcp
+(original author: elieworkspace).
+
+The upstream repository is published without an explicit license, so its
+original portions remain under the original author's copyright. This fork
+retains the upstream commit history and authorship.
+
+Modifications and additions in this fork — including Personal Access Token
+authentication, additional tools (direct messages, file upload/download,
+unread checking, message search, pagination), and reliability/security
+improvements — are Copyright (c) 2026 millerchou and are released under the
+MIT License (see LICENSE).

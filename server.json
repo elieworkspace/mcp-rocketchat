@@ -1,0 +1,39 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.millerchou/rocketchat-mcp",
+  "description": "MCP server for Rocket.Chat — messages, DMs, search, files, and channels over stdio",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/millerchou/rocketchat-mcp",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "rocketchat-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": { "type": "stdio" },
+      "environmentVariables": [
+        {
+          "name": "ROCKETCHAT_SERVER_URL",
+          "description": "RocketChat workspace URL, e.g. https://chat.example.com",
+          "isRequired": true
+        },
+        {
+          "name": "ROCKETCHAT_USER_ID",
+          "description": "RocketChat user ID",
+          "isRequired": true,
+          "isSecret": true
+        },
+        {
+          "name": "ROCKETCHAT_AUTH_TOKEN",
+          "description": "RocketChat personal access token",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

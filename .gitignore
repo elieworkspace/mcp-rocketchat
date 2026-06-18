@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Log
-rocketchat_mcp.log
+rocketchat_mcp.log*
